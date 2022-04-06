@@ -1,3 +1,5 @@
+<img src='./canvas.png'/>
+
 # 👋 Hi, I’m @Oualid-AKKA
 # About me
 ```rs
