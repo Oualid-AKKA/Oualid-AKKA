@@ -1,31 +1,7 @@
-<img src='./canvas.png'/>
-
 # 👋 Hi, I’m @Oualid-AKKA
 # About me
-```rs
-fn about() -> Passionate {
-    Passionate::new()
-        .name("Oualid AKKA")
-        .interests([
-            "Low Level",
-            "OSDEV",
-            "Compilers and Interpreters Dev",
-            "System Administration",
-            "DevOPS",
-            "IoT",
-            "Computer Networking"
-        ])
-        .currently_learning([
-            "Rust",
-            "C++",
-            "C",
-        ])
-        .student(true)
-        .age(17)
-        .gender("male")
-}
+Passionate programmer, interested in low level programming and cybersecurity.
 
-```
 # 📫 How to reach me
 [![Twitter](https://img.shields.io/badge/-@AkkaOualid-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkkaOualid)](https://twitter.com/AkkaOualid)
 [![Medium](https://img.shields.io/badge/-@akkaoualid-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@akkaoualid)](https://medium.com/@akkaoualid)
