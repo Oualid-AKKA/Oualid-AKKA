@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Oualid-AKKA
+# 👋 Hi, I’m AKKA Oualid
 # About me
 Passionate programmer, heavily addicted to low level programming.
 
